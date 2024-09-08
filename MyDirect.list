@@ -7,6 +7,9 @@ DOMAIN-EXCEPTION,compose-spec.io
 DOMAIN-EXCEPTION,docker.com
 DOMAIN-EXCEPTION,docker.io
 DOMAIN-EXCEPTION,dockerhub.com
+#tmdb
+DOMAIN-EXCEPTION,themoviedb.org
+DOMAIN-EXCEPTION,tmdb.org
 #NetEase
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
