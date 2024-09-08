@@ -1,4 +1,12 @@
 SRC-IP-CIDR,192.168.101.106/32
+#docker
+DOMAIN-EXCEPTION,d1q6f0aelx0por.cloudfront.net
+DOMAIN-EXCEPTION,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN-EXCEPTION,d36jcksde1wxzq.cloudfront.net
+DOMAIN-EXCEPTION,compose-spec.io
+DOMAIN-EXCEPTION,docker.com
+DOMAIN-EXCEPTION,docker.io
+DOMAIN-EXCEPTION,dockerhub.com
 #NetEase
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
